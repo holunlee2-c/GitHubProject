@@ -5,6 +5,7 @@ package com.example.githubproject;
  */
 
 public class NewJavaClass {
+
     public NewJavaClass() {
     }
 }
